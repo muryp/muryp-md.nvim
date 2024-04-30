@@ -1,0 +1,10 @@
+{
+  "workspace.library": [
+    "../plenary.nvim/lua",
+    "../telescope.nvim/lua",
+    "../telescope.nvim/plugin",
+    "../muryp-link.nvim/lua",
+    "../muryp-checklist.nvim/lua",
+    "../muryp-frontmatter.nvim/lua"
+  ]
+}
