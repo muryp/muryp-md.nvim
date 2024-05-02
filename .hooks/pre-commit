@@ -1,0 +1,4 @@
+#!/bin/sh
+make stylua
+git add .
+make lint

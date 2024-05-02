@@ -1,7 +1,6 @@
 local M = {}
 
----@param ARGS  {link:Object,checklist:Object,frontmatter:string}
-M.init = function(ARGS)
+M.setup = function()
   require('muryp-checklist').setup { map = "<leader>'" }
   require('muryp-link').setup {}
 end
